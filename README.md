@@ -1,9 +1,9 @@
-#P5 Openclassrooms - Créez votre premier blog en PHP
+# P5 Openclassrooms - Créez votre premier blog en PHP
 
-##Contexte
+## Contexte
 Ça y est vous avez sauté le pas ! Le monde du développement web avec PHP est à portée de main et vous avez besoin de visibilité pour pouvoir convaincre vos futurs employeurs/clients en un seul regard. Vous êtes développeur PHP, il est donc temps de montrer vos talents au travers d’un blog à vos couleurs.
 
-##Description du besoin
+## Description du besoin
 Le projet est donc de développer votre blog professionnel. Ce site web se décompose en deux grands groupes de pages :
 
 les pages utiles à tous les visiteurs
@@ -71,11 +71,9 @@ Veillez à bien valider vos tickets pour vous assurer que ceux-ci couvrent bien 
 
 L’écriture de ces tickets vous permettront de vous accorder sur un vocabulaire commun et Il est fortement apprécié qu’ils soient écrits en anglais !
 
-##Nota Bene
+## Nota Bene
 Votre projet devra être suivi via SymfonyInsight, ou Codacy pour la qualité du code, vous veillerez à obtenir une médaille d'argent au minimum (pour SymfonyInsight), en complément le respect des PSR est recommandé afin de proposer un code compréhensible et facilement évolutif.
 
 Dans le cas où une fonctionnalité vous semblerait mal expliquée ou manquante, parlez-en avec votre mentor afin de prendre une décision ensemble sur les choix que vous souhaiteriez prendre. Ce qui doit prévaloir doit être les délais.
 
-✔️ Projet validé
-Commentaire de l'évaluateur :
 
